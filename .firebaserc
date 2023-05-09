@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angularts-7ef1f"
+  },
+  "targets": {
+    "angularts-7ef1f": {
+      "hosting": {
+        "Angular-TS-project": [
+          "angularts-7ef1f"
+        ]
+      }
+    }
+  }
+}
