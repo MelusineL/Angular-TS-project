@@ -1,6 +1,6 @@
 # AngularTSProject
 
-Angular TS class project using public API "Spoonacular".
+Angular TS class project using public API [TheMealDB](https://www.themealdb.com/api.php).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
 I have no previous experience with Angular nor TS.
